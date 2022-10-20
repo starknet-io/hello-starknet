@@ -1,0 +1,10 @@
+name: hello_starknet
+version: ~
+title: Hello StarkNet
+nav:
+#  - modules/ROOT/nav.adoc
+  - modules/hello_starknet/nav.adoc # Hello StarkNet
+# asciidoc:
+#  attributes:
+#    context: 'StarkNet'
+#    imagesdir: images
