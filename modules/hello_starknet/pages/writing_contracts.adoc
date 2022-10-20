@@ -80,7 +80,7 @@ StarkNet contracts have no `main()` function. Instead, each function
 may be annotated as an external function (using the `@external`
 decorator). External functions may be called by the users of StarkNet,
 and by other contracts (see
-xref:calling_contracts.adoc#calling-contracts[Calling another contract]).
+xref:calling_contracts.adoc[Calling another contract]).
 
 In our case, the contract has two external functions:
 `increase_balance` reads the current value of balance from the
@@ -230,7 +230,7 @@ Transaction hash: 0x762e166dd3326b2e263eb5bcfdccd225dc88e067fdf7c92cf8ce5e4ea01f
 
 You can see here the class hash of your new contract. You’ll need this
 class hash in order to deploy an instance of the contract using the
-xref:deploying_from_contracts.adoc#deploying-from-contracts[deploy
+xref:deploying_from_contracts.adoc[deploy
 system call].
 
 == Deploy the contract on the StarkNet testnet
@@ -298,7 +298,7 @@ Transaction hash: 0x69d743891f69d758928e163eff1e3d7256752f549f134974d4aa8d26d5d7
 Due to the use of fees in StarkNet, every interaction with a
 contract through a function invocation must be done using an account. To
 set up an account, see
-xref:account_setup.adoc#account-setup[Setting up a
+xref:account_setup.adoc[Setting up a
 StarkNet account].
 ====
 
