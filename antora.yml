@@ -1,4 +1,4 @@
-name: hello-starknet
+name: snoopy
 version: ~
 title: Hello StarkNet
 start_page: writing_contracts.adoc
