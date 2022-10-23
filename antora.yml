@@ -1,6 +1,6 @@
 name: hello-starknet
 version: ~
-title: Hello StarkNet
+title: Snoopy
 start_page: writing_contracts.adoc
 nav:
   - modules/ROOT/nav.adoc # Hello StarkNet
