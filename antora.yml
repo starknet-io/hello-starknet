@@ -3,7 +3,7 @@ version: ~
 title: Hello StarkNet
 start_page: writing_contracts.adoc
 nav:
-  - modules/hello_starknet/nav.adoc # Hello StarkNet
+  - modules/ROOT/nav.adoc # Hello StarkNet
 #  - modules/ROOT/nav.adoc
 # asciidoc:
 #  attributes:
